@@ -1,0 +1,2 @@
+This tool was made for the YU Blueprint BlackCreek DBMS project, for testing performance of the retrieving recent activities function from the logging system.
+This tool generates 1 MB .log files with each line being in the activity logging format. 
