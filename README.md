@@ -1,4 +1,7 @@
 # Log File Maker
+![alt text](image.png)
+
+
 ## Purpose
 This tool was made for the YU Blueprint BlackCreek DBMS project. It creates sample modification activities log files to test all sorts of cases when it comes to any part of the application that uses them (retrieving activities, etc). It generates a specified number of 1 MB files with each line being in the activity logging format.
 
